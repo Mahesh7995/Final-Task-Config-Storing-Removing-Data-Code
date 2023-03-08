@@ -78,6 +78,5 @@ if( extraBool){
   }
 
 result = join( mainStringData, "$$" );
-
-
 return result;
+// This newly added line
